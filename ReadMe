@@ -17,7 +17,7 @@ A **real-time conveyor belt health monitoring system** using **ESP32 + Vibration
 - **ESP32 / STM32** (Microcontroller)  
 - **Vibration Sensor (MPU6050 / ADXL345)** (Detects belt misalignment & mechanical wear)  
 - **Temperature Sensor (DS18B20 / LM35)** (Monitors overheating of rollers/motor)  
-- **Load Cell + HX711 Module** (Detects excessive load on conveyor belt)  
+- **Load Cell + HX711 Module** (Detects excessive load on a conveyor belt)  
 - **Infrared Proximity Sensor** (Counts items moving on the belt)  
 - **Wi-Fi / LoRa Module** (ESP32 has built-in Wi-Fi; LoRa for long-range industrial monitoring)  
 - **OLED Display (Optional for Local Monitoring)**  
